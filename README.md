@@ -5,4 +5,4 @@
 
 ## Demo 
 
-<img src="/screenshots/demo.png" />
+<img height="300px" src="/screenshots/demo.png" />
